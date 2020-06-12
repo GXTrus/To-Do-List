@@ -123,3 +123,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+To-Do List/Deadlines are scary/task-remote-info.yaml
+To-Do List/Bye, completed tasks/task-remote-info.yaml
+To-Do List/I am an Alchemist!/task-remote-info.yaml
+To-Do List/Plan it/task-remote-info.yaml
+To-Do List/I am an Alchemist!/task-info.yaml
+To-Do List/Deadlines are scary/task-info.yaml
+To-Do List/Bye, completed tasks/task-info.yaml
+requirements.txt
+test_helper.py
+course-remote-info.yaml
+To-Do List/task/tests.py
+To-Do List/Plan it/task-info.yaml
